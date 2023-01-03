@@ -5,5 +5,8 @@ h1{
 }
 p{
     color: red;
-    text-align: center;
+    text-align: left;
+}
+body{
+    background-color: burlywood;
 }
