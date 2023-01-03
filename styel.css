@@ -1,12 +1,8 @@
 h1{
     color: black;
+    background-color: aquamarine;
     text-align: center;
+    background-image: url(tree.jpg);
     text-decoration: wavy rebeccapurple;
 }
-p{
-    color: red;
-    text-align: right;
-}
-body{
-    background-color: burlywood;
-}
+
